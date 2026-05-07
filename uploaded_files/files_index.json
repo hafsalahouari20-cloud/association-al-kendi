@@ -1,0 +1,602 @@
+{
+  "documents": [],
+  "tables_parsed": [],
+  "tables_source_info": [],
+  "images": [
+    {
+      "original_name": "WhatsApp Image 2026-05-03 at 19.42.09",
+      "file_name": "WhatsApp Image 2026-05-03 at 19.42.09.jpeg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/WhatsApp Image 2026-05-03 at 19.42.09.jpeg",
+      "rel_path": "images/WhatsApp Image 2026-05-03 at 19.42.09.jpeg",
+      "file_type": "jpeg",
+      "category": "images"
+    },
+    {
+      "original_name": "cropped_image_1_1777849207300717290.jpg",
+      "file_name": "cropped_image_1_1777849207300717290.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_1_1777849207300717290.jpg",
+      "rel_path": "images/cropped_image_1_1777849207300717290.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_0_1777849206710301405.jpg",
+      "file_name": "cropped_image_0_1777849206710301405.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849206710301405.jpg",
+      "rel_path": "images/cropped_image_0_1777849206710301405.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_1_1777849206715103163.jpg",
+      "file_name": "cropped_image_1_1777849206715103163.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_1_1777849206715103163.jpg",
+      "rel_path": "images/cropped_image_1_1777849206715103163.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_0_1777849207074541103.jpg",
+      "file_name": "cropped_image_0_1777849207074541103.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849207074541103.jpg",
+      "rel_path": "images/cropped_image_0_1777849207074541103.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_5_1777849207150359834.jpg",
+      "file_name": "cropped_image_5_1777849207150359834.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_5_1777849207150359834.jpg",
+      "rel_path": "images/cropped_image_5_1777849207150359834.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_0_1777849206908652867.jpg",
+      "file_name": "cropped_image_0_1777849206908652867.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849206908652867.jpg",
+      "rel_path": "images/cropped_image_0_1777849206908652867.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_1_1777849206948009940.jpg",
+      "file_name": "cropped_image_1_1777849206948009940.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_1_1777849206948009940.jpg",
+      "rel_path": "images/cropped_image_1_1777849206948009940.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_9_1777849206970966420.jpg",
+      "file_name": "cropped_image_9_1777849206970966420.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_9_1777849206970966420.jpg",
+      "rel_path": "images/cropped_image_9_1777849206970966420.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_0_1777849206715580667.jpg",
+      "file_name": "cropped_image_0_1777849206715580667.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849206715580667.jpg",
+      "rel_path": "images/cropped_image_0_1777849206715580667.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_1_1777849206719381888.jpg",
+      "file_name": "cropped_image_1_1777849206719381888.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_1_1777849206719381888.jpg",
+      "rel_path": "images/cropped_image_1_1777849206719381888.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_0_1777849206909856614.jpg",
+      "file_name": "cropped_image_0_1777849206909856614.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849206909856614.jpg",
+      "rel_path": "images/cropped_image_0_1777849206909856614.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_1_1777849206916214361.jpg",
+      "file_name": "cropped_image_1_1777849206916214361.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_1_1777849206916214361.jpg",
+      "rel_path": "images/cropped_image_1_1777849206916214361.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_0_1777849207171324241.jpg",
+      "file_name": "cropped_image_0_1777849207171324241.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849207171324241.jpg",
+      "rel_path": "images/cropped_image_0_1777849207171324241.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_1_1777849207176490058.jpg",
+      "file_name": "cropped_image_1_1777849207176490058.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_1_1777849207176490058.jpg",
+      "rel_path": "images/cropped_image_1_1777849207176490058.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_0_1777849207462505012.jpg",
+      "file_name": "cropped_image_0_1777849207462505012.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849207462505012.jpg",
+      "rel_path": "images/cropped_image_0_1777849207462505012.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_5_1777849207471151963.jpg",
+      "file_name": "cropped_image_5_1777849207471151963.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_5_1777849207471151963.jpg",
+      "rel_path": "images/cropped_image_5_1777849207471151963.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_13_1777849207521786113.jpg",
+      "file_name": "cropped_image_13_1777849207521786113.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_13_1777849207521786113.jpg",
+      "rel_path": "images/cropped_image_13_1777849207521786113.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_0_1777849207417516772.jpg",
+      "file_name": "cropped_image_0_1777849207417516772.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849207417516772.jpg",
+      "rel_path": "images/cropped_image_0_1777849207417516772.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_11_1777849207438151076.jpg",
+      "file_name": "cropped_image_11_1777849207438151076.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_11_1777849207438151076.jpg",
+      "rel_path": "images/cropped_image_11_1777849207438151076.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_0_1777849207391107370.jpg",
+      "file_name": "cropped_image_0_1777849207391107370.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849207391107370.jpg",
+      "rel_path": "images/cropped_image_0_1777849207391107370.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_0_1777849207386550299.jpg",
+      "file_name": "cropped_image_0_1777849207386550299.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849207386550299.jpg",
+      "rel_path": "images/cropped_image_0_1777849207386550299.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_0_1777849207189334625.jpg",
+      "file_name": "cropped_image_0_1777849207189334625.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849207189334625.jpg",
+      "rel_path": "images/cropped_image_0_1777849207189334625.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_5_1777849207192269598.jpg",
+      "file_name": "cropped_image_5_1777849207192269598.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_5_1777849207192269598.jpg",
+      "rel_path": "images/cropped_image_5_1777849207192269598.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_6_1777849207194398180.jpg",
+      "file_name": "cropped_image_6_1777849207194398180.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_6_1777849207194398180.jpg",
+      "rel_path": "images/cropped_image_6_1777849207194398180.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_7_1777849207195594526.jpg",
+      "file_name": "cropped_image_7_1777849207195594526.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_7_1777849207195594526.jpg",
+      "rel_path": "images/cropped_image_7_1777849207195594526.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_0_1777849207391543383.jpg",
+      "file_name": "cropped_image_0_1777849207391543383.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849207391543383.jpg",
+      "rel_path": "images/cropped_image_0_1777849207391543383.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_5_1777849207405293218.jpg",
+      "file_name": "cropped_image_5_1777849207405293218.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_5_1777849207405293218.jpg",
+      "rel_path": "images/cropped_image_5_1777849207405293218.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_0_1777849206991351931.jpg",
+      "file_name": "cropped_image_0_1777849206991351931.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849206991351931.jpg",
+      "rel_path": "images/cropped_image_0_1777849206991351931.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_1_1777849206995686246.jpg",
+      "file_name": "cropped_image_1_1777849206995686246.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_1_1777849206995686246.jpg",
+      "rel_path": "images/cropped_image_1_1777849206995686246.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_6_1777849207078169679.jpg",
+      "file_name": "cropped_image_6_1777849207078169679.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_6_1777849207078169679.jpg",
+      "rel_path": "images/cropped_image_6_1777849207078169679.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "cropped_image_1_1777849279502110290.jpg",
+      "file_name": "cropped_image_1_1777849279502110290.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_1_1777849279502110290.jpg",
+      "rel_path": "images/cropped_image_1_1777849279502110290.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_0_1777849278656090153.jpg",
+      "file_name": "cropped_image_0_1777849278656090153.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849278656090153.jpg",
+      "rel_path": "images/cropped_image_0_1777849278656090153.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_1_1777849278661009711.jpg",
+      "file_name": "cropped_image_1_1777849278661009711.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_1_1777849278661009711.jpg",
+      "rel_path": "images/cropped_image_1_1777849278661009711.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_0_1777849279600559643.jpg",
+      "file_name": "cropped_image_0_1777849279600559643.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849279600559643.jpg",
+      "rel_path": "images/cropped_image_0_1777849279600559643.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_5_1777849279619486100.jpg",
+      "file_name": "cropped_image_5_1777849279619486100.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_5_1777849279619486100.jpg",
+      "rel_path": "images/cropped_image_5_1777849279619486100.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_0_1777849279622307229.jpg",
+      "file_name": "cropped_image_0_1777849279622307229.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849279622307229.jpg",
+      "rel_path": "images/cropped_image_0_1777849279622307229.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_1_1777849279626977881.jpg",
+      "file_name": "cropped_image_1_1777849279626977881.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_1_1777849279626977881.jpg",
+      "rel_path": "images/cropped_image_1_1777849279626977881.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_9_1777849279654396027.jpg",
+      "file_name": "cropped_image_9_1777849279654396027.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_9_1777849279654396027.jpg",
+      "rel_path": "images/cropped_image_9_1777849279654396027.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_0_1777849278989783672.jpg",
+      "file_name": "cropped_image_0_1777849278989783672.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849278989783672.jpg",
+      "rel_path": "images/cropped_image_0_1777849278989783672.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_1_1777849278993749409.jpg",
+      "file_name": "cropped_image_1_1777849278993749409.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_1_1777849278993749409.jpg",
+      "rel_path": "images/cropped_image_1_1777849278993749409.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_0_1777849279199966883.jpg",
+      "file_name": "cropped_image_0_1777849279199966883.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849279199966883.jpg",
+      "rel_path": "images/cropped_image_0_1777849279199966883.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_1_1777849279204671929.jpg",
+      "file_name": "cropped_image_1_1777849279204671929.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_1_1777849279204671929.jpg",
+      "rel_path": "images/cropped_image_1_1777849279204671929.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_0_1777849279163797544.jpg",
+      "file_name": "cropped_image_0_1777849279163797544.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849279163797544.jpg",
+      "rel_path": "images/cropped_image_0_1777849279163797544.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_1_1777849279168947822.jpg",
+      "file_name": "cropped_image_1_1777849279168947822.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_1_1777849279168947822.jpg",
+      "rel_path": "images/cropped_image_1_1777849279168947822.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_0_1777849279667580253.jpg",
+      "file_name": "cropped_image_0_1777849279667580253.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849279667580253.jpg",
+      "rel_path": "images/cropped_image_0_1777849279667580253.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_5_1777849279676008172.jpg",
+      "file_name": "cropped_image_5_1777849279676008172.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_5_1777849279676008172.jpg",
+      "rel_path": "images/cropped_image_5_1777849279676008172.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_13_1777849279726440894.jpg",
+      "file_name": "cropped_image_13_1777849279726440894.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_13_1777849279726440894.jpg",
+      "rel_path": "images/cropped_image_13_1777849279726440894.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_0_1777849279283366024.jpg",
+      "file_name": "cropped_image_0_1777849279283366024.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849279283366024.jpg",
+      "rel_path": "images/cropped_image_0_1777849279283366024.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_11_1777849279356845188.jpg",
+      "file_name": "cropped_image_11_1777849279356845188.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_11_1777849279356845188.jpg",
+      "rel_path": "images/cropped_image_11_1777849279356845188.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_0_1777849279367413565.jpg",
+      "file_name": "cropped_image_0_1777849279367413565.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849279367413565.jpg",
+      "rel_path": "images/cropped_image_0_1777849279367413565.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_0_1777849278853357792.jpg",
+      "file_name": "cropped_image_0_1777849278853357792.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849278853357792.jpg",
+      "rel_path": "images/cropped_image_0_1777849278853357792.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_0_1777849279458654059.jpg",
+      "file_name": "cropped_image_0_1777849279458654059.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849279458654059.jpg",
+      "rel_path": "images/cropped_image_0_1777849279458654059.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_5_1777849279461623617.jpg",
+      "file_name": "cropped_image_5_1777849279461623617.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_5_1777849279461623617.jpg",
+      "rel_path": "images/cropped_image_5_1777849279461623617.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_6_1777849279463658554.jpg",
+      "file_name": "cropped_image_6_1777849279463658554.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_6_1777849279463658554.jpg",
+      "rel_path": "images/cropped_image_6_1777849279463658554.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_7_1777849279464959014.jpg",
+      "file_name": "cropped_image_7_1777849279464959014.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_7_1777849279464959014.jpg",
+      "rel_path": "images/cropped_image_7_1777849279464959014.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_0_1777849279597610929.jpg",
+      "file_name": "cropped_image_0_1777849279597610929.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849279597610929.jpg",
+      "rel_path": "images/cropped_image_0_1777849279597610929.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_5_1777849279611654762.jpg",
+      "file_name": "cropped_image_5_1777849279611654762.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_5_1777849279611654762.jpg",
+      "rel_path": "images/cropped_image_5_1777849279611654762.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_0_1777849279466795360.jpg",
+      "file_name": "cropped_image_0_1777849279466795360.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_0_1777849279466795360.jpg",
+      "rel_path": "images/cropped_image_0_1777849279466795360.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_1_1777849279471540311.jpg",
+      "file_name": "cropped_image_1_1777849279471540311.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_1_1777849279471540311.jpg",
+      "rel_path": "images/cropped_image_1_1777849279471540311.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "cropped_image_6_1777849279555162933.jpg",
+      "file_name": "cropped_image_6_1777849279555162933.jpg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/cropped_image_6_1777849279555162933.jpg",
+      "rel_path": "images/cropped_image_6_1777849279555162933.jpg",
+      "file_type": "jpg",
+      "category": "images",
+      "source_id": "2051072990836604928"
+    },
+    {
+      "original_name": "WhatsApp Image 2026-04-29 at 16.36.12",
+      "file_name": "WhatsApp Image 2026-04-29 at 16.36.12.jpeg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/WhatsApp Image 2026-04-29 at 16.36.12.jpeg",
+      "rel_path": "images/WhatsApp Image 2026-04-29 at 16.36.12.jpeg",
+      "file_type": "jpeg",
+      "category": "images"
+    },
+    {
+      "original_name": "WhatsApp Image 2026-04-29 at 16.36.15",
+      "file_name": "WhatsApp Image 2026-04-29 at 16.36.15.jpeg",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/public/images/WhatsApp Image 2026-04-29 at 16.36.15.jpeg",
+      "rel_path": "images/WhatsApp Image 2026-04-29 at 16.36.15.jpeg",
+      "file_type": "jpeg",
+      "category": "images"
+    }
+  ],
+  "summary": {
+    "total_files": 65,
+    "by_category": {
+      "documents": 0,
+      "tables_parsed": 0,
+      "tables_source_info": 0,
+      "images": 63,
+      "document": 2
+    },
+    "processing_time": null
+  },
+  "document": [
+    {
+      "original_name": "Dossier de la demande de financement AJK",
+      "file_name": "Dossier de la demande de financement AJK.md",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/uploaded_files/documents/Dossier de la demande de financement AJK.md",
+      "file_type": "pdf",
+      "category": "document",
+      "summary": "Processed Dossier de la demande de financement AJK for coding",
+      "source_id": "2051072743062290432"
+    },
+    {
+      "original_name": "Dossier de la demande de financement AJK",
+      "file_name": "Dossier de la demande de financement AJK.md",
+      "file_path": "/data/workspace/a8efeb22-9d86-4de8-b4b2-bf70de5040a1/ajk_association/uploaded_files/documents/Dossier de la demande de financement AJK.md",
+      "file_type": "pdf",
+      "category": "document",
+      "summary": "Processed Dossier de la demande de financement AJK for coding",
+      "source_id": "2051072990836604928"
+    }
+  ]
+}
